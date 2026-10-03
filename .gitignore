@@ -1,0 +1,7 @@
+*.iso
+*.vdi
+*.vmdk
+*.pem
+*.key
+id_rsa*
+.env
